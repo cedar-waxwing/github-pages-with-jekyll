@@ -1,3 +1,3 @@
-# Welcome to my blog
+# This is Rachel's Blog
 
-I'm glad you are here. I plan to talk about ...
+This is my first homepage.
